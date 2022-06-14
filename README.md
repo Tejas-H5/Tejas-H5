@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi
+This github profile contains all of the personal projects that I am currently working on. 
+In almost all of them, I am the sole contributor so I will be treating git more like a save-point in a game rather than a version control system used to keep track of unique changes in a codebase.
 
-<!--
-**El-Tejaso/El-Tejaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<TODO: fill these out>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on:
+
+  
+### Successful projects
+  
+  
+### Failures
+  
+  
