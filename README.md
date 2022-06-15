@@ -23,7 +23,7 @@ An app development library with an API that is heavily inspired by Processing, b
 <details>
 <summary><a href="https://github.com/El-Tejaso/MacroRunner">Macro runner</a> (TypeScript, JavaScript, VS-Code Extension) ⭐</summary>
 
-A [VSCode extension](https://marketplace.visualstudio.com/items?itemName=El-Tejaso.macro-runner) that uses some variant of JavaScript's `eval` function to arbitrary snippets of code on text files that are currently open. This project is by far the epitome of software engineering - taking two things that already exist, connecting them together to make something slightly better and then taking full credit for the final product. It is easily the most useful thing I have made so far. This readme was actually generated with a script ran by this extension. Writing a script for such a task is usually thought of as unnecessary, but this extension makes it so easy that you can't not write a script for it.
+A [VSCode extension](https://marketplace.visualstudio.com/items?itemName=El-Tejaso.macro-runner) that uses some variant of JavaScript's `eval` function to arbitrary snippets of code on text files that are currently open. This project is by far the epitome of software engineering - taking two things that already exist, connecting them together to make something slightly better and then taking full credit for the final product. It is easily the most useful thing I have made so far. This readme was actually generated with [a script](https://github.com/El-Tejaso/El-Tejaso/blob/main/generate-readme.js) ran by this extension. Writing a script for such a task is usually thought of as unnecessary, but this extension makes it so easy that you can't not write a script for it.
 </details>
 
 <details>
