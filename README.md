@@ -3,7 +3,7 @@
 - [Chess HUD](https://github.com/El-Tejaso/Chess-HUD) [Early 2023]
   - An idea for a HUD while playing chess that can prevent one move blunders
 - [Programming language / calculator](https://github.com/El-Tejaso/Calculator) [Late 2022]
-  - An interpreted programming language created within an interpreted programming language. I would like 
+  - An interpreted programming language created within an interpreted programming language.
 - [Javascript-Keyboard](https://github.com/El-Tejaso/Javascript-Keyboard) [Early 2023]
   - A virtual instrument that I would like to slowly turn into a rhythm game
 - [Minimal-JS-framework](https://github.com/El-Tejaso/Minimal-JS-framework) [Early 2023]
