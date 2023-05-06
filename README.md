@@ -34,9 +34,7 @@ It's mostly GameDev in Unity, as opposed to the MVC REST API stuff people really
 
 - [Minimal Application Framework C#](https://github.com/El-Tejaso/CSharp-Minimal-Application-Framework) A C# framework for making desktop apps with a Processing-like API, but with only what I need (The creative coding framework based in Java)
 
-- Powerslide - An arcade racing game I am making in Unity, the successor to Racing Drift. TODO: add a link when once I release it
-
-- [Racing Drift](https://gamejolt.com/games/RacingDrift/377289) - An arcade racing game with multiple cars and tracks, + the ability to load and save ghosts. Private repo, also you probably really don't want to see the code on this one
+- [Racing Drift](https://gamejolt.com/games/RacingDrift/377289) - An arcade racing game with multiple cars and tracks, + the ability to load and save ghosts. Private repo, also you probably really don't want to see the code on this one. I have stopped work on this, as I am working on it's successor
 
 - [Harmonic Table](https://github.com/El-Tejaso/Harmonic-Table) A virtual instrument using a harmonic table layout that I saw someone else make in a HackerNews post, that I wanted a playable version of. 
 
