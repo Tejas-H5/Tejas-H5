@@ -1,5 +1,3 @@
-I can only pin 6 repos, which isn't enough imo. Programming is one of those things where quantity can be as important as quality.
-
 ## Currently working on
 
 - [Powerslide](https://gamejolt.com/games/Powerslide/805966) - An arcade racing game where all levels are made with a level editor that is available to the user from day 1
@@ -8,7 +6,7 @@ I can only pin 6 repos, which isn't enough imo. Programming is one of those thin
 
 These are some of the simplest projects I have done programming-wise, but they are also the most useful in the work that they do.
 
-- [FocusBalancer](https://github.com/El-Tejaso/FocusBalancer) - A python script that pauses your video/podcast/media when you have stopped typing/mouse-using, and resumes it when you start again. (TODO: report back here whether or not this actually works with preventing youtube videos from distracting me)
+- [FocusBalancer](https://github.com/El-Tejaso/FocusBalancer) - A python script that pauses your video/podcast/media when you have stopped typing/mouse-using, and resumes it when you start again. Although it works as expected, it simply does not improve my ability to focus like I thought it would :(
 
 - [Non-grating timer](https://github.com/El-Tejaso/Non-Grating-Timer) A C# WinForms timer program  that focuses itself and bounces around your window like the [DvD] screensaver we all know and love. It is designed to be extremely simple, and work without using any audio, so that it doesn't jumpscare me
 
